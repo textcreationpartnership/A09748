@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caesaris superscriptio Siue Conciuncula, coram duobus potentissimis regibus, Iacobo Britanniae, &amp; Christiano Daniae, in superiori atrio splendidæ illius domûs, honoratissimi Comitis Sarisburiensis, quæ vocatur Theobaldus, a Doctore Thoma Playfero, Sacræ Theologiæ Cantabrigiensi Professore, pro Dominâ Margaretâ. Anno 1606. habita. Iulij 27.</title>
+            <author>Playfere, Thomas, 1561?-1609.</author>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A09748</idno><idno type="EEBO-CITATION">99856336</idno>
+  <idno type="VID">21871</idno>
+  <idno type="EEBO-PROQUEST">2240861894</idno>
+  <idno type="STC">STC 20008</idno>
+  <idno type="STC">ESTC S121149</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99856336e"/>
+            <note>(EEBO-TCP ; phase 2, no. A09748)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 21871)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1252:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Caesaris superscriptio Siue Conciuncula, coram duobus potentissimis regibus, Iacobo Britanniae, &amp; Christiano Daniae, in superiori atrio splendidæ illius domûs, honoratissimi Comitis Sarisburiensis, quæ vocatur Theobaldus, a Doctore Thoma Playfero, Sacræ Theologiæ Cantabrigiensi Professore, pro Dominâ Margaretâ. Anno 1606. habita. Iulij 27.</title>
+                  <author>Playfere, Thomas, 1561?-1609.</author>
+               </titleStmt>
+               <extent>[4], 10, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[Printed at Eliot's Court press] impensis Ioannis Bill,</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>Anno 1606. Iulij 30.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identification of printer from STC.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in Yale University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, Latin.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:21871:1"/>
+            <pb facs="tcp:21871:1"/>
+            <p>CAESARIS SV<g ref="char:EOLhyphen"/>PERSCRIPTIO.</p>
+            <p>SIVE <hi>Conciuncula, coram duobus Potentissimis Regibus,</hi> IACOBO BRITANNIAE, &amp; CHRISTIANO DANIAE, IN Superiori atrio splendidae illius domûs, <hi>Hono<g ref="char:EOLhyphen"/>ratissimi Comitis Sarisburiensis, quae</hi> vocatur THEOBALDVS, A <hi>Doctore</hi> THOMA PLAYFERO, <hi>Sacra</hi> Theologiae Cantabrigiensi Professore, <hi>pro Dominâ Margaretâ.</hi>
+            </p>
+            <p>Anno 1606. habita. Iulij 27.</p>
+            <p>LONDINI, Impensis IOANNIS BILL. <hi>Anno</hi> 1606. <hi>Iulij</hi> 30.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:21871:2"/>
+            <pb facs="tcp:21871:2"/>
+            <head>Ad beneuolum Lectorem.</head>
+            <p>
+               <seg rend="decorInit">E</seg>N tibi, Lector, quatridui laborem. Certorum amicorum hortatu editum. Breuis est, fateor. At non amo te, nisi tu breuitatem. Saltem, negligentiâ quae non decurtata sit, sed accuratio<g ref="char:EOLhyphen"/>ne constricta. Deinde, ad me comparandum perbre<g ref="char:EOLhyphen"/>ue tempus datum, longam non potuit concionem pertexere. Nisi forte valuissem cum Iosuâ solem si<g ref="char:EOLhyphen"/>stere, vt non meum negotium dirigeretur ad tem<g ref="char:EOLhyphen"/>pus, sed inflecteretur ipsum tempus ad negotium meum. Porrò &amp; eorum qui audituri erant iudici<g ref="char:EOLhyphen"/>um reformidans, qui non satis me facturum putaui, nec nimium facere decreui. Vt si eos nullâ voluptate possem perfundere, at nec illi me metuperturba<g ref="char:EOLhyphen"/>rent nimis diuturno. Forsitan etiam veliussus bre<g ref="char:EOLhyphen"/>ui expedire parendum, velannuendum censui admo<g ref="char:EOLhyphen"/>nitus. Ne sumptuosissimo epulo nobilissimis hospiti<g ref="char:EOLhyphen"/>bus tum dato, tempus quod inter alia distribuendum erat, soli viderer vendicare mihi. Certè &amp; sine mo<g ref="char:EOLhyphen"/>nitore facilè ipse praeuidebam, tales auditores non defatigandos prolixitate, sed commodâ breuitate al<g ref="char:EOLhyphen"/>lectandos fuisse, ad consimilem saepè laborem in eâ<g ref="char:EOLhyphen"/>dem caussâ sumendum. Loquor de ijs qui intelli<g ref="char:EOLhyphen"/>gebant Latinè. Caeteri, qui certatim ferè innumeri conuolabāt, ad duos Illustrissimos Reges, quasi (quod perrarò tamen contingit) ad duos simul in coelo soles intuendos, ipsi cum audire non possent, nihilominùs voluerunt audiri, cum{que} aegrè ferrent se non intelli<g ref="char:EOLhyphen"/>gere, strepitu interim suo vt nec alij intèlligerent concionem obruerunt. Haec vna caussa, cur, licet bre<g ref="char:EOLhyphen"/>nissima,
+<pb facs="tcp:21871:3"/> in publicum emittenda fuerit. Huc accedit, rari rem esse exempli, extra Academias, aut Con<g ref="char:EOLhyphen"/>uocationem quam vocant, Latinam concionem habe<g ref="char:EOLhyphen"/>ri: rarioris, in Aula: rarissimi, nec nostrâ memoriâ patrúmue cogniti, coram duobus Regibus. Hîc igitur Ecclesia laetatur, nutricios suos pios Reges, non contra Christum, sed propter Christū suum sponsum conue<g ref="char:EOLhyphen"/>nire. Eos{que} qui cōiunctissimi sunt affinitatis foederū{que} omnium societate, similiter sanctae religionis exer<g ref="char:EOLhyphen"/>citijs, verbum{que} audiendi curâ coniunctos. Simùl &amp; Serenissimum Regem <hi>Christianum,</hi> non solùm libenter cognoscere quibus commodis hoc Regnum alijs circumfluat, sed etiam in Dei cultu quam quasi formam obseruet. Ita{que} antè quidem, vt ait Aposto<g ref="char:EOLhyphen"/>lus, oculos nobis nostris manibus erutos eramus Regi Praecellentissimo dare parati, nunc nihil habere nos existimamus satis dignum, Maiestatis suae, vel inti<g ref="char:EOLhyphen"/>mo amore in Deo-dilectum Regem nostrum <hi>Iaco<g ref="char:EOLhyphen"/>bum,</hi> vel perpetuis in hanc rempub. promeritis, vel flagrante verae religionis restaurandae &amp; amplifican<g ref="char:EOLhyphen"/>dae studio. Hae editionis caussae. Tu, Lector, talem te praesta erga me, qualem ego me soleo erga omnes. Si eorum lucubrationes ad me mea{que} studia non spe<g ref="char:EOLhyphen"/>ctent, alijs relinquo, ipse eas haud temerè sumo in manus ad legendā. Sin spectent, eis, vel applaudo, vel ignosco. Si, aut benè perscriptae sint, aut tam benè quàm potuit qui scripsit. Tu quo{que} mihi, pro huma<g ref="char:EOLhyphen"/>nitate tuâ ignosce. Praesertim cum à veteribus om<g ref="char:EOLhyphen"/>nibus optimae fidei amicis meis, id est, à libris in Aca<g ref="char:EOLhyphen"/>demicomeo musaeo, iam fuerim aliquandiu disiun<g ref="char:EOLhyphen"/>ctus. Cincinnatus ab aratro: ego, à foenificio. Vale.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:21871:3"/>
+            <head>CAESARIS SV<g ref="char:EOLhyphen"/>PERSCRIPTIO.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 68.1.</hi>
+                  </bibl>
+                  <p>Exurgat Deus, dissipentur inimici.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">D</seg>Ominus noster &amp; Serua<g ref="char:EOLhyphen"/>tor Iesus Christus, mon<g ref="char:EOLhyphen"/>strato sibi denario, inter<g ref="char:EOLhyphen"/>rogâsse legitur, Cuius<g ref="char:EOLhyphen"/>nam illa imago &amp; super<g ref="char:EOLhyphen"/>scriptio esset? Caesaris esse respondent. Idem si nunc Christus versaretur in terris, atque nostrâ de pecuniâ quaereret, Caesa<g ref="char:EOLhyphen"/>ris itidem superscriptio<g ref="char:EOLhyphen"/>nem hanc, sed non Romani, verùm Britannici esse audi<g ref="char:EOLhyphen"/>ter. Siquidem in regijs numismatis publicâ fide signa<g ref="char:EOLhyphen"/>tis, quàm plurima, &amp; argentea, &amp; aurea repereris, hâc ipsâ quae superscriptione notentur; <hi>Exurgat Deus, dis<g ref="char:EOLhyphen"/>sipentur inimici.</hi>
+            </p>
+            <p>Vt autem sacrum hoc emblema, non solùm in com<g ref="char:EOLhyphen"/>mutabilibus pecuniae membris, sed etiam in intimis fi<g ref="char:EOLhyphen"/>delium cordibus inscribatur, operae me laborisque mei pretium arbitror esse facturum, non quidem singula si
+<pb n="2" facs="tcp:21871:4"/> verba examinem, sed vnicum duntaxat, vnde totius sententiae pondus momentumque dependet. Si enim probe intellectum fuerit, <hi>Deus</hi> hoc loco quid signifi<g ref="char:EOLhyphen"/>cet, causae nihil erit, quamobrem verborum de expli<g ref="char:EOLhyphen"/>catione laboremus reliquorum. Porrò vt superscriptio haec, non isto in Psalmo solùm, sed &amp; anté, &amp; post hunc Psalmum occurrit: ita nomen <hi>Dei</hi> triplicem in<g ref="char:EOLhyphen"/>terpretationem admittit. <hi>Exurgat Deus,</hi> id est; vel Cul<g ref="char:EOLhyphen"/>tus Dei: vel Magistratus Dei: vel Filius Dei. <hi>Exurgat</hi> cultus &amp; vera religio Dei, &amp; dissipentur omnes verae religionis inimici. <hi>Exurgat</hi> magistratus Dei, &amp; dissi<g ref="char:EOLhyphen"/>pentur omnes pij magistratûs inimici. <hi>Exurgat</hi> filius Dei, &amp; dissipentur omnes filij Dei inimici. <hi>Exurgat Deus, dissipentur inimici.</hi>
+            </p>
+            <p>Cultus Dei latet in tutelâ &amp; praesidio pij magistra<g ref="char:EOLhyphen"/>tûs: magistratus Dei sine custodiâ &amp; vigilantiâ filij Dei non protegitur: filius Dei si neutiquam exurrexisset, haud potuisset, vel perse suos magistratus, vel per magi<g ref="char:EOLhyphen"/>stratus suum cultum defendere. Vt igitur, nec cultus Dei prospicientiâ magistratûs, nec magistratus Dei protectione filij careret, id circò hosce simul omnes ecclesia complectitur, oratque vt, <hi>Exurgat</hi> cultus Dei, <hi>Exurgat</hi> magistratus Dei, <hi>Exurgat</hi> filius Dei. Si nam{que} exurgat filius Dei, magistratus erit tutus: si exurgat ma<g ref="char:EOLhyphen"/>gistratus Dei, cultus erit purus. Vbi è contra, nec cultus sine magistratu propagari posset: nec magistratus sine filio defendi. Orat proinde ecclesia, vt <hi>Exurgat</hi> cultus Dei; ne{que} id solùm, verùm, ne cultus Dei opprimatur, vt <hi>Exurgat</hi> etiam magistratus Dei; neque id solùm, verùm, ne magistratus Dei opprimatur, vt <hi>Exurgat</hi> etiam filius Dei. <hi>Exurgat Deus, dissipentur inimici.</hi>
+            </p>
+            <p>Iam igitur, vt ordine procedam, breuiterque omnia perstringam; Primò, superscriptio ista reperitur, vt dixi, ante hunc Psalmum. Nempe Nu. cap. 10. ver. 35.
+<pb n="3" facs="tcp:21871:4"/> Illic autem <hi>Deus,</hi> cultum Dei designat. Quandoqui<g ref="char:EOLhyphen"/>dem enim Deus se ad arcam astrinxerat, quasi ad aspe<g ref="char:EOLhyphen"/>ctabile signum suae praesentiae, idcirco quoties leuaba<g ref="char:EOLhyphen"/>tur arca, non tam arcam dictitabant, quàm Deum ip<g ref="char:EOLhyphen"/>sum exurgere. Ideoque etiam nunquam prodibant ad bellum inimicis inferendum, quin curarent sibi arcam praeferri, cui &amp; sublatis vociferationibus acclamabant; <hi>Exurgat Deus, dissipentur inimici.</hi>
+            </p>
+            <p>Caeterùm, tantos sibi spiritus sumebant, tantosque animos Israelitae praeeunte arcâ, non quòd eam diuinae praesentiae symbolum &amp; pignus modò esse putarent, sed quia incorruptae religionis etiam, veraeque pietatis in<g ref="char:EOLhyphen"/>signe. Vt enim Constantini Magni milites, sub labaro illo siue vexillo bellantes, in quo scriptum fuit, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>In hoc vince,</hi> nullas inimicorum vires impressio<g ref="char:EOLhyphen"/>nesúe metuebant; &amp; Taboritae, sonitu audito tympani ex Iohannis Ziscae nobilis Bohemi cute confecti, non poterant contineri, quin hostium in medias turmas ir<g ref="char:EOLhyphen"/>ruerent: planè eodem modo Israelitae, Dominum ex<g ref="char:EOLhyphen"/>ercituum timentes nihil praeterea timebant, sed arcâ foederis freti tanquam tesserâ sanctae religionis suae, ma<g ref="char:EOLhyphen"/>gis inuicti at{que} animosi erant, quàm si, aut Constantini vexillo circumuallati, aut Ziscae excitati tympano fu<g ref="char:EOLhyphen"/>issent. Quid enim in cultu Dei vllâ ratione requiritur, quod non fuit significatum in arcâ? Verbum, &amp; Sacra<g ref="char:EOLhyphen"/>menta? At verbum erat, in tabulis legis, &amp; oraculo: sa<g ref="char:EOLhyphen"/>cramenta, in virgâ, &amp; mannâ. Sacerdotes, qui verbum praedicarent, &amp; administrarent Sacramenta? At vectes auro operti, erant sacerdotes, qui circumgestabant ar<g ref="char:EOLhyphen"/>cam, quasi si nomen Dei coram gentibus &amp; regibus cùm Paulo portarent. Scientia scripturarum, &amp; opti<g ref="char:EOLhyphen"/>mae artes, quae erudirent &amp; perpolirent ministros? At aurei quatuor illi annuli, siue circuli, in quos vectes in<g ref="char:EOLhyphen"/>serebantur, erant Moysis <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, aut velnu <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. quaedam, hoc est, curricula erant &amp; exercitationes,
+<pb n="4" facs="tcp:21871:5"/> in quibus assidue debebant ministrorum studia versari. Notandum enim deum sic loqui; <hi>Vectes semper erunt in circulis, nec vnquam extrahentur ab eis.</hi> Quia videlicet fideles Leuitae semper debebant occupari in studijs &amp; sanctis meditationibus, nec vnquam diuelli ab eis. Ita, nec defuerunt verbo &amp; sacramentis sacerdotes, nec sacerdotibus artes &amp; literae. Sed qui verbo atque sa<g ref="char:EOLhyphen"/>cramentis dispensandis perpetuò deum colebant, ij vi<g ref="char:EOLhyphen"/>cissim ipsi excolebantur pulcherrimis disciplinis ac sci<g ref="char:EOLhyphen"/>entijs, quò instructiores ad Dei cultum accederent. Quamobrem veteres Israelitae clamantes, <hi>Exurgat De<g ref="char:EOLhyphen"/>us,</hi> hoc nimirum dicere volebant; <hi>Exurge Deus in re<g ref="char:EOLhyphen"/>quiem tuam, tute &amp; arca roboris tui. Exurgat</hi> deiarca, dissipetur Dagon: <hi>Exurgat</hi> Moysis manus, dissipetur Amalech: <hi>Exurgat</hi> Aaronis virga, dissipentur Pharo<g ref="char:EOLhyphen"/>nis magi: <hi>Exurgat</hi> serpens aeneus, dissipentur serpen<g ref="char:EOLhyphen"/>tes igniti: <hi>Exurgat</hi> verbum &amp; sacramenta, dissipentur verbi &amp; sacramentorum inimici: <hi>Exurgat</hi> ministerium &amp; optimae artes, dissipentur ministerij &amp; optimarum artium inimici; <hi>Exurgat Deus, dissipentur inimici.</hi> Tan<g ref="char:EOLhyphen"/>tum de cultu dei.</p>
+            <p>Secundò, superscriptio ista reperitur, vti videmus, in hoc psalmo. Hic autem <hi>Deus,</hi> magistratum Dei. desi<g ref="char:EOLhyphen"/>gnat. Quippe manserat arca in Chiriathiarim sexaginta annis neglecta. Nulla eius ratio habebatur, quamdiu Saul regnauit. Nunc igitur Dauid, rebus suis omnibus ex animi sententiâ praeclarè constitutis, Philistaeis supe<g ref="char:EOLhyphen"/>ratis, edomitis Iebusaeis, publicâ pace vndiqua{que} stabi<g ref="char:EOLhyphen"/>litâ, cum iam arca Dei ex aedibus Obededomi in Sionis arcem transferenda esset, intuens populi Israelitici in deserto historiam, precatur his verbis; <hi>Exurgat Deus, dissipentur inimici.</hi>
+            </p>
+            <p>Perinde quasi dixisset; Iam cum religionem bene fundatam, omnesque dissipatos inimicos video, Do<g ref="char:EOLhyphen"/>minus
+<pb n="5" facs="tcp:21871:5"/> non dubito quin me charum habeat. His enim optimis ominibus, secundissimis{que} auspicijs in regnum inauguratus, rectè videor posse deinceps confidere, om<g ref="char:EOLhyphen"/>nia mihi meis{que} prosperè &amp; foeliciter euentura. Nunc ego floresco, quum floret religio: nunc ego triumpho, quum triumphat pax. Sic semper pergas, quaeso, Do<g ref="char:EOLhyphen"/>mine, beare seruum tuum, dissipare inimicos serui tui; <hi>Exurgat Deus, dissipentur inimici.</hi>
+            </p>
+            <p>At{que} ne fortè miretur quispiam, cur <hi>Deum</hi> hoc loco positum pro Dauide, siue generatim pro magistratu Dei interpreter, iam parumper si placet, quâ id ratione faciam attendite. Arca, vt sanctum Dei cultum figura<g ref="char:EOLhyphen"/>uit: sic nec obscurè reuerentiam obseruantiam{que} magi<g ref="char:EOLhyphen"/>stratui quae debetur. Corona aurea per circuitum arcae, quid aliud expressit, quàm coronam illam, quâ de Da<g ref="char:EOLhyphen"/>uid Psalmo vicesimo primo; Coronam capiti regis im<g ref="char:EOLhyphen"/>posuisti de lapide pretioso? Vnde &amp; Israelitae olim Ior<g ref="char:EOLhyphen"/>danemtransituri, hoc modo admoniti fuerunt; <hi>Cauete ne appropinquetis ad arcam, sed sit semper inter vos &amp; ar<g ref="char:EOLhyphen"/>cam spatium cubitorum duûm millium.</hi> Hoc interuallum praecedentem arcam inter ac subsequentem populum, apertè declarat, regiae coronae fulgorem tam longè di<g ref="char:EOLhyphen"/>stare à tenuitate at{que} obscuritate subditorum, vt hi ne quidem in conspectu relinquantur. Sunt enim summi magistratus, ministri Dei. Cuius vicem videlicet lo<g ref="char:EOLhyphen"/>cum{que} tenent in terris. Idcirco sapienter Iosaphat iu<g ref="char:EOLhyphen"/>dices à se ordinatos alloquens; <hi>Videte,</hi> ait, <hi>quid faciatis: non enim hominis exercetis iudicium, sed Dei.</hi> Quemad<g ref="char:EOLhyphen"/>modum igitur verbum qui audiunt, non vt verbum ho<g ref="char:EOLhyphen"/>minis audire illud debent, sed, sicuti reuera est, vt ver<g ref="char:EOLhyphen"/>bum Dei; ita etiam existimare debemus, eos qui iudi<g ref="char:EOLhyphen"/>cant terram, publicisque rebus praesunt, non hominis sed Dei exercere iudicium. Hinc non dubitauit Psalmista de regibus, rex ipsemet inclytus, in hanc pronunciare sententiam; <hi>Ego dixi, Dij estis.</hi> Quae sane tam vera pro<g ref="char:EOLhyphen"/>phetae
+<pb n="6" facs="tcp:21871:6"/> asseueratio est de regibus populi, <hi>Dij estis,</hi> quàm falsa fuit Diaboli pollicitatio de seruis peccati, <hi>Dij eri<g ref="char:EOLhyphen"/>tis.</hi> Ne{que} enim Deum vnquam facit, quod Deus nun<g ref="char:EOLhyphen"/>quam facit. Sed si constet, è pijs regibus quasdam di<g ref="char:EOLhyphen"/>uinitatis, at{que} adeo ipsius Dei, vt ita dicam scintillulas emicare, quibus subditos ad sui admirationem inflam<g ref="char:EOLhyphen"/>mant &amp; amorem, cur cuius iustitiae clementiae{que} radios ad alios gubernandos tuendos{que} diffundunt, eius non ipsi vicissim amplitudinis &amp; claritatis illustri specie splendescerent? Certè Christus elogium hoc regij pro<g ref="char:EOLhyphen"/>phetae repetens, Iohannis decimo, non reprehendit vt nimis hyperbolicum, sed egregie dilaudat, ex eo{que} sui dictirationem &amp; defensionem petit. Si etenim terreni principes hand immeritò <hi>Dij</hi> quidam nuncupari pos<g ref="char:EOLhyphen"/>sint, propter diuinissimi officij praestantissimique mu<g ref="char:EOLhyphen"/>neris maiestatem: quantò magis Christus filium se sine blasphemiâ Dei dixerit, cum sit ipse Deus coaeternus cum patre; &amp; filius Dei, naturae communicatione, non gratiae? Nec tamen hinc aliquid regum de celsitate de<g ref="char:EOLhyphen"/>trahitur, quod supra eos sit Christus, quin potiùs hoc sibi gloriosissimum ducere debent, quòd cum ipsi sint supra omnes mortales, solum seipsis superiorem habent immortalē Deum. At{que} adeo quoties hoc cogitāt, nulli se omninò praeterquam soli Deo obedientiam debere, nimirum incredibilem quandam animi exaggeratio<g ref="char:EOLhyphen"/>nem, &amp; robur sibi mentis planè diuinum assument, vt quamuis videant improbos, vaesanâ feritate &amp; barbariâ furibundâ bacchantes, totas respublicas vno momento euertere conari, perinde acsi hîc scriptum esset, <hi>Exur<g ref="char:EOLhyphen"/>gant inimici, dissipetur Deus;</hi> tamen placidissimè in bo<g ref="char:EOLhyphen"/>num Deum, patronum ac protectorem bonorum re<g ref="char:EOLhyphen"/>gum recumbentes, &amp; pro suâ ac populi sui incolumitate precantes, semper cantēt cum suaui citharoedo Dauide, non vt illi; <hi>Exurgant inimici, dissipetur Deus;</hi> sed, <hi>Exurgat Deus, dissipentur inimici.</hi> Tantum de magistratu Dei.</p>
+            <pb n="7" facs="tcp:21871:6"/>
+            <p>Tertiò, &amp; vltimò, superscriptio ista reperitur, vt ini<g ref="char:EOLhyphen"/>tio obseruaui, post hunc Psalmum. Nempe Epistolae ad Ephesios Cap. 4. ver. 8. Non quòd expressa haec sen<g ref="char:EOLhyphen"/>tentiola illic legatur, sed quia Paulus partem huius Psalmi Christo applicans, Psalmum illi totum ascripsit. Sanè enim, si licuit Apostolo ex sequentibus illis ver<g ref="char:EOLhyphen"/>bis, <hi>Ascendisti in altum,</hi> confirmare sequentem etiam ascensionem Christi, profecto nec dubitásset, si vsus &amp; occasio fuisset, ex antecedentibus hisce verbis, <hi>Exurgat Deus,</hi> similiter antecedentem Christi resurrectionem probare. Tum autem, si id fecisset, <hi>Deus,</hi> filium Dei designâsset. Sicut &amp; nunc nihilominùs aptissimè desi<g ref="char:EOLhyphen"/>gnat. Habuit etenim hoc Dauid, quando ex suis qui<g ref="char:EOLhyphen"/>dem lumbis Christum sciebat proditurum, quoties reg<g ref="char:EOLhyphen"/>ni sui gloriam voluit extollere, vt simul instaurationem regni Christi includeret. Ac proinde quum Dauid v<g ref="char:EOLhyphen"/>nus esset ex multis illis regibus, quos Christus testatur cupiisse videre suam resurrectionem, nec tamen vidisse, id circo quod intueri corporis oculis non potuit, spiritûs interim fidei{que} luce conspexit, &amp; cum reliquis omnibus sanctis regibus at{que} prophetis, filii Dei desiderans glo<g ref="char:EOLhyphen"/>riosum diem, dixit; <hi>Exurgat Deus, dissipentur inimici.</hi>
+            </p>
+            <p>Caeterùm arca Dei filium Dei tam variè illustrat, vt perpauca solummodò quasi libâsse suffecerit. Propitia<g ref="char:EOLhyphen"/>torium de auro mundissimo, quem, obsecro, alium de<g ref="char:EOLhyphen"/>scripsit, quam illum quem proposuit Deus propiato<g ref="char:EOLhyphen"/>rē, qui{que} solus propitiatio est pro peccatis nostris? Duo aurei Cherubini respicientes sese mutuò, &amp; tegentes propitiatorium suis alis, quid aliud esse possunt, quàm duo testamenta, quae inter se, &amp; in Christo conspirant? Obumbrant quidem propitiatorium, sed adumbrant Christū. Deauratio arcae auro mundissimo foris &amp; in<g ref="char:EOLhyphen"/>tùs, erat perfecta sanctificatio filij Dei ab vtero matris. Quatenus enim expers erat omnis peccati actualis, de<g ref="char:EOLhyphen"/>autatus fuit foris: quatenus omnis peccati originalis,
+<pb n="8" facs="tcp:21871:7"/> deauratus fuit intùs. Constructio arcae de lignis <hi>Setim</hi> quae cariem non sentiunt, Christi <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> notat. De quâ filius ipse patrem compellans sacro suo ore testatur; <hi>Non dereliuques animam meam in inferno, neque sines san<g ref="char:EOLhyphen"/>ctum tuum corruptionem videre.</hi> Ne igitur corrupti<g ref="char:EOLhyphen"/>onem hanc videretur vidisse, sed vt omnes intelligereut, carnem eius, velutiarcam de lignis <hi>Setim</hi> cariosam non potuisse esse, pij patres semper optârunt, vti quampti<g ref="char:EOLhyphen"/>mùm exurgeret. Nam vt antequam incarnatus esset, clamabant; <hi>Vtinam disrumperes coelum, &amp; descenderes:</hi> sic postquam fuisset sepultus, clamabant; Vtinam dis<g ref="char:EOLhyphen"/>rumperes sepulchrum, &amp; exurgeres. Sanctus Iacobus frater Domini (vt scribit Hieronymus in Catalogo, verbo Iacobus) tam ardenter expetebat reditum filij Dei é sepulchro cernere, vt sanctè voueret, se ab eâ no<g ref="char:EOLhyphen"/>cte in qua panem &amp; vinum de manibus Christi sump<g ref="char:EOLhyphen"/>sisset, nec comesurum quicquam nec bibiturum, donec certò cum resurrexisse resciret. Non vt Iudaei, qui id vo<g ref="char:EOLhyphen"/>uebant, donec trucidâssent Paulum: sed, donec filium Dei, trucidatum à Iudaeis, excitatum â semetipso vide<g ref="char:EOLhyphen"/>ret. Haec igitur sanctorum Prophetarum &amp; Apostolo<g ref="char:EOLhyphen"/>rum vota, haec suspiria fuerunt; O tu sol mundi! vbi es? cur inuoluis te tenebris? O tu phoenix mundi! vbi es? cur te obruis cineribus? <hi>Exurgat</hi> sol mundi, dissipen<g ref="char:EOLhyphen"/>tur tenebrae: <hi>Exurgat</hi> phoenix mundi, dissipentur cine<g ref="char:EOLhyphen"/>res; <hi>Exurgat Deus, dissipentur inimici.</hi> Tantum de filio Dei.</p>
+            <p>Haec superscriptio, vt iam audîstis, à tribus vsurpata fuit. Moyse: Dauide: Paulo. Moyses loquitur in se<g ref="char:EOLhyphen"/>cundâ personâ, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Exurge:</hi> Dauid in tertiâ per<g ref="char:EOLhyphen"/>sonâ, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Exurgat.</hi> Paulus in eadem tertiâ personâ, sed in altero tempore, nimirum in tempore praeterito, <hi>Exurrexit.</hi> Non enim ait, Captiuos ducat, sed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Captiuos duxit, captiuos duxit &amp; <hi>disipauit ini<g ref="char:EOLhyphen"/>micos.</hi>
+               <pb n="9" facs="tcp:21871:7"/> Ita{que} haec superscriptio; Moysi, fuit petitio: Dauidi, praedictio: Paulo, impletio. Nam Moyses, lo<g ref="char:EOLhyphen"/>quitur de Cultu: Dauid, de Magistratu: Paulus, de Fi<g ref="char:EOLhyphen"/>lio. Iam verò Cultoris Dei est, petere &amp; repetere: Ma<g ref="char:EOLhyphen"/>gistratus Dei est, praedicere &amp; edicere: Filij Dei est, implere &amp; perficere. Et tamen hoc affirmo, nunquam sic fuisse impletam hanc scripturam aetate Pauli, vel vllo alio exinde seculo, vt hodie in auribus nostris oculisque impletur. Quanquam enim plurimas florentissimas orbis habeat Euangelicas at{que} reformatas ecclesias, de quibus verè dici possit, Deum in illis gloriosissimè iam<g ref="char:EOLhyphen"/>pridem <hi>Exurrexisse,</hi> ac proinde de earum honore nihil vellem vllâ a me comparatione institutâ decerpi: ta<g ref="char:EOLhyphen"/>men si verū dicendum libere{que} loquendum sit, in nullâ vnquam republicâ Deus gloriosiùs <hi>Exurrexit,</hi> (sancto nomini eius propterea immortales gratiae habeantur) <hi>Exurrexit</hi> in cultu suo, <hi>Exurrexit</hi> in magistratu suo, <hi>Ex<g ref="char:EOLhyphen"/>urrexit</hi> in Filio suo, quâm nuper in hac nostrâ Britanniâ. Ita, quod fuit Moysi tantum modò votum: Dauidi plus<g ref="char:EOLhyphen"/>quam votum; vaticinium: Paulo plusquam vaticinium; complementū: nobis tamen multò veriùs, vberiùs, foe<g ref="char:EOLhyphen"/>liciùs, quàm Paulo impletur. Vt quantum clarirate sci<g ref="char:EOLhyphen"/>entiae, Moysi Dauid; Dauidi Paulus praecelluerit, tan<g ref="char:EOLhyphen"/>tum nos ipsi Paulo euentûs foelicitate praestemus. Ille horum verborum intellectum liquidiùs vidit: nos laetiùs effectum. Nam ille sub Nerone occisus: nos viximus nunquam beatiùs. Eia, foelices Aulici! Eia, foelices omnes Britanni! <hi>Exurrexit; Exurrexit</hi> Deus: &amp; sic semper <hi>Exurgat; Exurgat Deus, dissipentur inimici.</hi>
+            </p>
+            <p>Quapropter, vt haec innumerabilia, quae in vos Do<g ref="char:EOLhyphen"/>minus beneficia &amp; ornamenta congessit, quae patres vestri maioresque nunquam viderunt, liberis tamen ve<g ref="char:EOLhyphen"/>stris ac posteris omnibus transmittantur, supplicissimè atque humillimè vos oro, Augustissimi, Serenissimi{que} reges, vosque reliqui, Honoratissimi, &amp; Charissimi dei
+<pb n="10" facs="tcp:21871:8"/> Amici; si vos excellens decus allicit, si gloriae stimuli concitant, si immortalitatis pulchritudo delectat; per sollicitam eam curam vestrarum quam habetis de salute animarum, per nobilissimum &amp; tenerrimum Christi cru<g ref="char:EOLhyphen"/>orem pro vobis in crucis arâ profusum, per omnia om<g ref="char:EOLhyphen"/>nium sanctitatum iura, quantum meus in Deum amor, &amp; reuerentia beneuolentia{que} in vnumquem{que} vestrùm postulat, tantum vos humillimè oro, inquam, &amp; obte<g ref="char:EOLhyphen"/>stor; id quod studiosissimē iam facitis, pergatis dein<g ref="char:EOLhyphen"/>ceps quoque fideliter facere, Cultum Dei procuretis, Magistratum Dei honoretis, Filium Dei celebretis; discatis vel à Mamonâ vestrâ, non tamen vt Mamonae discendo seruiatis, sed vt Deo sincerè seruientes, ipsi sitis moneta Dei, perimaginem eius insculptam in cordibus vestris per fidem; discatis, inquam, a Mamonâ vestrâ, non enim vtilior vllo modo vobis esse potest, quám si hoc vnum vos doceat, dignum profectò vt aureis lite<g ref="char:EOLhyphen"/>ris in cordibus incidatur; à Mamonâ vestrâ dicere, <hi>Ex<g ref="char:EOLhyphen"/>urgat Deus,</hi> Cultus Dei, Magistratus Dei, Filius Dei, <hi>Exurgat Deus, dissipentur inimici.</hi>
+            </p>
+            <p>Tum enim, si modò <hi>Exurgat</hi> Deus in cordibus ve<g ref="char:EOLhyphen"/>stris, post exactam huius vitae vestrae militiam; post re<g ref="char:EOLhyphen"/>pressas &amp; excisas cupiditates, carnis, quae odit Cultum Dei; post stratum &amp; confoslum Diabolum, qui odit Magistratum Dei; post spretam &amp; contemptam vani<g ref="char:EOLhyphen"/>tatem mundi, qui odit Filium Dei; post trophaea ve<g ref="char:EOLhyphen"/>stra de carne, post victorias de Diabolo, post trium<g ref="char:EOLhyphen"/>phos de mundo; ad coelestes illas sedes &amp; cathedras a<g ref="char:EOLhyphen"/>scendetis, vbi aeternâ foelicitate omnibus copijs &amp; opi<g ref="char:EOLhyphen"/>bus amplificatâ magnificentissimè redundabitis. Quod nobis omnibus Christus ipse concedat, per immensam virtutem &amp; potentiam resurrectionis suae, quâ suos no<g ref="char:EOLhyphen"/>stros{que} omnes <hi>dissipauit inimicos,</hi> &amp; posuit eos scabel<g ref="char:EOLhyphen"/>lum pedum suorum; Cui, cum Patre, &amp; Spiritu Sancto sit omnis honor &amp; gloria, nunc, &amp; in aeternum. <hi>Amen.</hi>
+            </p>
+            <pb facs="tcp:21871:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
